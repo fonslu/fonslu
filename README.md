@@ -1,8 +1,8 @@
 ## Sobre mim
-  Estudante de Sistemas de Informação, com foco nas áreas de infraestrutura de TI, redes de computadores, administração de sistemas (sysadmin), servidores e computação em nuvem. Tenho interesse em soluções robustas e escaláveis, e estou em constante aprendizado para aprimorar minhas habilidades técnicas e acompanhar as evoluções do setor.
+  Estudante de Sistemas de Informação com foco em infraestrutura de TI, redes, servidores e computação em nuvem.
 
 ## Experiências
-  Atualmente atuo como Técnico de Infraestrutura de TI em uma indústria, com foco em servidores, redes de computadores, suporte e manutenção de sistemas. Sou estudante de Sistemas de Informação e, ao longo da graduação, participei de projetos acadêmicos e pesquisas voltadas para infraestrutura, redes e computação em nuvem. Também busco constantemente me atualizar por meio de cursos online e formações complementares nas áreas de sysadmin, segurança da informação e cloud computing.
+   Técnico de Infraestrutura de TI em uma indústria, com foco em servidores, redes e suporte.
 
 ## Tecnologias e ferramentas
 
