@@ -53,3 +53,11 @@
 <img width="40">
 </div>
 
+## 📜 Meus Certificados
+
+Aqui estão alguns dos meus principais certificados e cursos concluídos recentemente:
+
+
+
+💡 *Você pode conferir todos os meus certificados reunidos aqui:*  
+➡️ [Meu Portfólio de Certificados](https://seu-link-de-portifolio.com)
