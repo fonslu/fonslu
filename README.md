@@ -56,5 +56,5 @@
 ## Contato 
 Feel free to connect with me: 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alexandre-n-4963361a4/](https://www.linkedin.com/in/fonslu?utm_source=share_via&utm_content=profile&utm_medium=member_ios))  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/fonslu)  
 
