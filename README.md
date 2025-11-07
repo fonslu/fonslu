@@ -1,8 +1,8 @@
 ## Sobre mim
-  Estudante de Sistemas de Informação com foco em infraestrutura de TI, redes, servidores e computação em nuvem.
+  Estudante de Sistemas de Informação com foco em Infraestrutura de TI, atualmente trabalho como Analista de Tecnologia.
 
 ## Experiências
-   Técnico de Infraestrutura de TI em uma indústria, com foco em servidores, redes e suporte.
+   Analista TI em uma indústria. 
 
 ## Tecnologias e ferramentas
 
@@ -53,11 +53,6 @@
 <img width="40">
 </div>
 
-## 📜 Meus Certificados
-
-Aqui estão alguns dos meus principais certificados e cursos concluídos recentemente:
+## Contato 
 
 
-
-💡 *Você pode conferir todos os meus certificados reunidos aqui:*  
-➡️ [Meu Portfólio de Certificados](https://seu-link-de-portifolio.com)
